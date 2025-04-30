@@ -1,6 +1,6 @@
-👋 Olá! Eu sou o Kaio Henrique
-🎯 Desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas.
-🎓 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade UNISUAM, campus Bonsucesso - RJ.
+👋 Olá! Eu sou o Kaio Henrique <br>
+🎯 Desenvolvedor Front-End apaixonado por tecnologia e interfaces modernas. <br>
+🎓 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade UNISUAM, campus Bonsucesso - RJ. <br>
 🚀 Buscando evoluir constantemente, aprendendo novas tecnologias e desenvolvendo projetos que fazem a diferença.
 
 💻 Tecnologias que estou estudando:
