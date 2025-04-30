@@ -17,5 +17,4 @@
   ##
  
 
-📈 Em constante evolução:
-Atualmente focado em construir uma base sólida em desenvolvimento front-end, com planos de expandir para o back-end no futuro.
+📈 Atualmente focado em construir uma base sólida em desenvolvimento front-end, com planos para o back-end no futuro.
